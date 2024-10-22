@@ -34,3 +34,15 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+
+#secrets
+CONVEX_DEPLOYMENT=dev:knowing-fish-299 # team: emmanuel-mulwa, project: podworld
+
+NEXT_PUBLIC_CONVEX_URL=https://knowing-fish-299.convex.cloud
+
+NEXT_PUBLIC_CLERK_PUBLISHABLE_KEY=pk_test_bmF0dXJhbC1uYXJ3aGFsLTk4LmNsZXJrLmFjY291bnRzLmRldiQ
+CLERK_SECRET_KEY=sk_test_X4pZnBuIlzvRjl9prbw99zrC5q5FuCCmaVCS2EXnhY
+CLERK_WEBHOOK_SECRET = whsec_hNxLtn0Ke2oe3xIn1aJUwLsCRU5xiUO0
+
+NEXT_PUBLIC_CLERK_SIGN_IN_URL = '/sign-in'
+NEXT_PUBLIC_CLERK_SIGN_UP_URL = '/sign-up'
